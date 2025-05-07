@@ -17,5 +17,5 @@ config uplink
 	option con_start_expiry '0'
 	option con_end_expiry '0'
 	option enabled '1'
-	option con_start '2024.07.20-22:46:02'
+	option con_start '2025.05.07-11:45:56'
 
